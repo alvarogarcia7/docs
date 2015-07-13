@@ -125,3 +125,7 @@ cd -
 Now that you're setup with POW, you'll just run `rake watch` and load up `http://octopress.dev` instead.
 
 Also see [Sharing Code Snippets](/docs/blogging/code) and [Blogging with Plugins](/docs/blogging/plugins)
+
+## Faster site generation (Octopress 2)
+
+A way for faster site generation is explained in [this post](http://alvarogarcia7.github.io/blog/2015/07/13/faster-site-generation-for-octopress-2/)
